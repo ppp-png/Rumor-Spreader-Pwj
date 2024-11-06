@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+Context 1/2
+	00 Scene
+	01 Scene
+	02 CaptureConvolveSkyEnvMap
+	03 ConvolutionMip6Etc
+	04 BasePass
